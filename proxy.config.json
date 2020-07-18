@@ -1,0 +1,8 @@
+{
+  "hotel-api/*":{
+    "target":"https://api.test.hotelbeds.com",
+    "secure":false,
+    "logLevel":"debug"
+  }
+
+}
